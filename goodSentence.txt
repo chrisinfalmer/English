@@ -1,0 +1,1 @@
+Mesos decides how man resources to offer each framework, while frameworks decide which resources to accept and which computations to run on them. 
